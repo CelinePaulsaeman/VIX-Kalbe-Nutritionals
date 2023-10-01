@@ -4,7 +4,7 @@ Virtual Intern Experience (VIX) is an internship program from Rakamin Academy in
 Goals: To identify estimation of quantity product sales to help inventory team to prepare optimum daily stock of products.
 * Marketing Department requests a customer segmentation (cluster) based on each common criterias.
 Goals: To categorize customers into a few clusters. The clusters will be used for a personalized promotion and sales treatment.
-**Dataset**: Sales Data in 2022 Provided by Kalbe Nutritionals
+<br> **Dataset**: Sales Data in 2022 Provided by Kalbe Nutritionals
 **Tools**:
 - Python
 - Jupyter Notebook
